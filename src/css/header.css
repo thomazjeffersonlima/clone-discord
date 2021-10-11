@@ -11,3 +11,15 @@
     display: flex;
     align-items: center;
 }
+
+.nav-bar a {
+    margin: 0px 25px;
+    text-decoration: none;
+}
+
+.btn-enter {
+    display: flex;
+    align-items: center;
+    margin: 25px 15px;
+    padding: 0px 15px;
+}
