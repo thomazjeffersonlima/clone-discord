@@ -1,0 +1,13 @@
+.card-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 160px;
+}
+
+.nav-bar {
+    display: flex;
+    align-items: center;
+}
